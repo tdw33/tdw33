@@ -11,7 +11,7 @@
 
 ### Currently working on 
 
-Learning about machine learning with Python
+Learning more about Node JS and Jest
 
 ### Connect with me:
 
