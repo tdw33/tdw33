@@ -1,4 +1,4 @@
-### Hi there, I'm Tom - [website] 👋
+### Hi there, I'm Tom - [portfolio][website] 👋
 
 ## I'm a Developer, and Entrepreneur!
 
@@ -15,7 +15,7 @@ Learning about machine learning with Python
 
 ### Connect with me:
 
-[linked in] 
+[LinkedIn][myLinkedIn]
 
 
 
@@ -32,4 +32,7 @@ Learning about machine learning with Python
 [<img align="left" alt="MongoDB" width="50px" src="https://img.icons8.com/color/96/000000/mongodb.png" />]
 [<img align="left" alt="Vs Code" width="50px" src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" />] 
 
+
+[website]: https://6155e094cd766f4f7c00c4fe--lucid-austin-128258.netlify.app/
+[myLinkedIn]: https://www.linkedin.com/in/thomas-wells-8a816a1b3/
 
