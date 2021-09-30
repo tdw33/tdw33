@@ -35,4 +35,5 @@ Learning more about Node JS and Jest
 
 [website]: https://6155e094cd766f4f7c00c4fe--lucid-austin-128258.netlify.app/
 [myLinkedIn]: https://www.linkedin.com/in/thomas-wells-8a816a1b3/
+[WSM]: https://www.depop.com/wsmgarms/
 
