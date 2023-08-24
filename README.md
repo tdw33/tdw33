@@ -1,17 +1,16 @@
-### Hi there, I'm Tom - [portfolio][website] 👋
+### Hi there, I'm Tom 👋
 
 ## I'm a Developer, and Entrepreneur!
 
-- 🔭 I have a clothing company named WSM Garms that sells vintage American clothing: [WSM Garms][WSM]!
+- 🔭 Use to own a clothing company named WSM Garms that sells vintage American clothing
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Develop my full stack web development skills
-- ⚡ Fun fact: I love coffee and developing my clothing company 
+- 🥅 2023 Goals: Develop my full stack web development skills
 
 
 
 ### Currently working on 
 
-Learning more about Node JS and Jest
+Learning more about GraphQl
 
 ### Connect with me:
 
@@ -33,7 +32,5 @@ Learning more about Node JS and Jest
 [<img align="left" alt="Vs Code" width="50px" src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" />] 
 
 
-[website]: https://6155e094cd766f4f7c00c4fe--lucid-austin-128258.netlify.app/
 [myLinkedIn]: https://www.linkedin.com/in/thomas-wells-8a816a1b3/
-[WSM]: https://www.depop.com/wsmgarms/
 
