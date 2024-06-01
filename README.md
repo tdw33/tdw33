@@ -4,7 +4,6 @@
 
 - 🔭 Use to own a clothing company named WSM Garms that sells vintage American clothing
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Develop my full stack web development skills
 
 
 
